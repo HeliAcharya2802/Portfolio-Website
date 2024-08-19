@@ -16,7 +16,7 @@ This is a personal portfolio website that I've created to highlight my work and 
 
 Here are some screenshots of the website:
 
-![Homepage](2-.jpg)
+![Homepage](ss1.jpg)
 
 
 ## Installation
